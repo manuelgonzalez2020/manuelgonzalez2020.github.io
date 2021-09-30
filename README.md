@@ -32,7 +32,6 @@
       }
   }
 </script>
-  </script>
   </head>
 
 
@@ -77,7 +76,7 @@
                 </p>     
                 <br class="aviso">
                   <span class="obligatorio"> * </span>los campos son obligatorios.
-                </br>
+                <br>
                 <button type="submit" name="enviar_formulario" id="enviar"><p>Registrarse</p></button>
 
                           
